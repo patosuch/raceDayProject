@@ -20,5 +20,5 @@ else if (age >= 18 && adultEarly !== true) {
 
 // (OUTPUT) Child Runner
 else if (age < 18){
-    console.log ( `Your race is at 12:30pm and your race number is ${raceNumber}`)
+    console.log ( `Your race is at 12:30pm and your race number is ${raceNumber}`);
 }
